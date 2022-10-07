@@ -1,0 +1,12 @@
+C:\Users\denado\source\repos\Explore\Explore.Core\bin\Debug\net6.0\Explore.Core.deps.json
+C:\Users\denado\source\repos\Explore\Explore.Core\bin\Debug\net6.0\Explore.Core.dll
+C:\Users\denado\source\repos\Explore\Explore.Core\bin\Debug\net6.0\Explore.Core.pdb
+C:\Users\denado\source\repos\Explore\Explore.Core\obj\Debug\net6.0\Explore.Core.csproj.AssemblyReference.cache
+C:\Users\denado\source\repos\Explore\Explore.Core\obj\Debug\net6.0\Explore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denado\source\repos\Explore\Explore.Core\obj\Debug\net6.0\Explore.Core.AssemblyInfoInputs.cache
+C:\Users\denado\source\repos\Explore\Explore.Core\obj\Debug\net6.0\Explore.Core.AssemblyInfo.cs
+C:\Users\denado\source\repos\Explore\Explore.Core\obj\Debug\net6.0\Explore.Core.csproj.CoreCompileInputs.cache
+C:\Users\denado\source\repos\Explore\Explore.Core\obj\Debug\net6.0\Explore.Core.dll
+C:\Users\denado\source\repos\Explore\Explore.Core\obj\Debug\net6.0\refint\Explore.Core.dll
+C:\Users\denado\source\repos\Explore\Explore.Core\obj\Debug\net6.0\Explore.Core.pdb
+C:\Users\denado\source\repos\Explore\Explore.Core\obj\Debug\net6.0\ref\Explore.Core.dll
